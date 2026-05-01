@@ -13,7 +13,7 @@ Reliable Rentals operates multiple outlets that rent vehicles to clients. Each o
 ## Repository Structure
 
 ```
-DSC623---Project-DB/
+DSC623-Project_DB-Reliable_Rentals/
 ├── README.md
 ├── Part 1 - Conceptual/
 │   └── Project_-_Conceptual_Design.pdf
